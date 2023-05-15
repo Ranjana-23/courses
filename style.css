@@ -1,0 +1,51 @@
+table{
+	width:1000px;
+	height:500px;
+	border:1px solid black;
+	border-collapse:collapse;
+}
+th{
+	border-collapse:collapse;
+	border:1px solid black;
+	width:5px;
+	height:2px;
+	
+}
+td,tr{
+	width:5px;
+	height:5px;
+	border:1px solid black;
+	text-align:center;
+}
+	
+.a{
+	background-color:deeppink;
+    
+}
+.b{
+	background-color:palevioletred;
+}
+.c{
+	background-color:palevioletred;
+}
+.d{
+	background-color: hotpink;
+}
+.e{
+	background-color:hotpink ;
+}
+.f{
+	background-color:hotpink ;
+}
+.g{
+	background-color:hotpink ;
+}
+.h{
+	background-color:hotpink ;
+}
+.i{
+	background-color:hotpink;
+}
+h5{
+	text-align:center;
+}
